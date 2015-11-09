@@ -1,0 +1,3 @@
+Express server listening on port \\.\pipe\9a2e78d3-ae25-4b80-a8c2-a81726b1e290
+{ clientIp: '127.0.0.1', clientIpRoutable: false }
+[90mGET / [32m200 [90m1421ms - 3.86kb[0m

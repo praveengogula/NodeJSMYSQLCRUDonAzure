@@ -1,0 +1,44 @@
+Express server listening on port \\.\pipe\005fffb8-8da8-4d64-97b1-c56eccba7452
+{ clientIp: '127.0.0.1', clientIpRoutable: false }
+[90mGET / [32m200 [90m1419ms - 3.86kb[0m
+{ clientIp: '127.0.0.1', clientIpRoutable: false }
+
+
+
+
+BEFORE MODIFICATIONS
+
+
+2
+Nadya Eka
+Jl. Ciwidey no 20
+nadya@yahoo.com
+086454743743
+
+
+
+
+[90mGET /customers/edit/2 [32m200 [90m665ms - 1.94kb[0m
+{ clientIp: '127.0.0.1', clientIpRoutable: false }
+
+
+
+
+AFTER MODIFICATION
+Praveen Kumar Gogula
+
+
+Miracle City
+
+
+pgogula@miraclesoft.com
+
+
+9133533510
+
+
+
+
+[90mPOST /customers/edit/2 [36m302 [90m681ms - 76[0m
+{ clientIp: '127.0.0.1', clientIpRoutable: false }
+[90mGET /customers [32m200 [90m565ms - 3.87kb[0m
